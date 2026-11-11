@@ -1,0 +1,22 @@
+# Notebooks (Google Colab, GPU)
+torch>=2.1
+torchvision>=0.16
+timm
+torchstain
+opencv-python
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+kaggle
+catboost
+xgboost
+lightgbm
+boruta
+shap
+optuna
+imbalanced-learn
+openpyxl
+ctgan

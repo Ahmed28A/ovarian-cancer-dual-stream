@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+kaggle.json
+*.pth
+*.pt
+*.xlsx
+catboost_info/
+flagged/
+.DS_Store
